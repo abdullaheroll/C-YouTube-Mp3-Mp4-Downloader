@@ -1,0 +1,41 @@
+C:\Users\APO\source\repos\Selenium\Youtube\Youtube\bin\Debug\Youtube.exe.config
+C:\Users\APO\source\repos\Selenium\Youtube\Youtube\bin\Debug\Youtube.exe
+C:\Users\APO\source\repos\Selenium\Youtube\Youtube\bin\Debug\Youtube.pdb
+C:\Users\APO\source\repos\Selenium\Youtube\Youtube\bin\Debug\libvideo.dll
+C:\Users\APO\source\repos\Selenium\Youtube\Youtube\bin\Debug\Newtonsoft.Json.dll
+C:\Users\APO\source\repos\Selenium\Youtube\Youtube\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\APO\source\repos\Selenium\Youtube\Youtube\bin\Debug\Newtonsoft.Json.xml
+C:\Users\APO\source\repos\Selenium\Youtube\Youtube\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\APO\source\repos\Selenium\Youtube\Youtube\obj\Debug\Youtube.Form1.resources
+C:\Users\APO\source\repos\Selenium\Youtube\Youtube\obj\Debug\Youtube.Properties.Resources.resources
+C:\Users\APO\source\repos\Selenium\Youtube\Youtube\obj\Debug\Youtube.csproj.GenerateResource.cache
+C:\Users\APO\source\repos\Selenium\Youtube\Youtube\obj\Debug\Youtube.csproj.CoreCompileInputs.cache
+C:\Users\APO\source\repos\Selenium\Youtube\Youtube\obj\Debug\Youtube.csproj.CopyComplete
+C:\Users\APO\source\repos\Selenium\Youtube\Youtube\obj\Debug\Youtube.exe
+C:\Users\APO\source\repos\Selenium\Youtube\Youtube\obj\Debug\Youtube.pdb
+C:\Users\APO\source\repos\Selenium\Youtube\Youtube\bin\Debug\MediaToolkit.dll
+C:\Users\APO\source\repos\Selenium\Youtube\Youtube\bin\Debug\Youtube.exe.manifest
+C:\Users\APO\source\repos\Selenium\Youtube\Youtube\bin\Debug\Youtube.application
+C:\Users\APO\source\repos\Selenium\Youtube\Youtube\obj\Debug\Youtube.exe.manifest
+C:\Users\APO\source\repos\Selenium\Youtube\Youtube\obj\Debug\Youtube.application
+D:\C# Projelerim\Youtube\Youtube\bin\Debug\Youtube.exe.config
+D:\C# Projelerim\Youtube\Youtube\bin\Debug\Youtube.exe.manifest
+D:\C# Projelerim\Youtube\Youtube\bin\Debug\Youtube.application
+D:\C# Projelerim\Youtube\Youtube\bin\Debug\Youtube.exe
+D:\C# Projelerim\Youtube\Youtube\bin\Debug\Youtube.pdb
+D:\C# Projelerim\Youtube\Youtube\bin\Debug\libvideo.dll
+D:\C# Projelerim\Youtube\Youtube\bin\Debug\MediaToolkit.dll
+D:\C# Projelerim\Youtube\Youtube\bin\Debug\Newtonsoft.Json.dll
+D:\C# Projelerim\Youtube\Youtube\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\C# Projelerim\Youtube\Youtube\bin\Debug\Newtonsoft.Json.xml
+D:\C# Projelerim\Youtube\Youtube\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\C# Projelerim\Youtube\Youtube\obj\Debug\Youtube.csproj.AssemblyReference.cache
+D:\C# Projelerim\Youtube\Youtube\obj\Debug\Youtube.Form1.resources
+D:\C# Projelerim\Youtube\Youtube\obj\Debug\Youtube.Properties.Resources.resources
+D:\C# Projelerim\Youtube\Youtube\obj\Debug\Youtube.csproj.GenerateResource.cache
+D:\C# Projelerim\Youtube\Youtube\obj\Debug\Youtube.csproj.CoreCompileInputs.cache
+D:\C# Projelerim\Youtube\Youtube\obj\Debug\Youtube.exe.manifest
+D:\C# Projelerim\Youtube\Youtube\obj\Debug\Youtube.application
+D:\C# Projelerim\Youtube\Youtube\obj\Debug\Youtube.csproj.CopyComplete
+D:\C# Projelerim\Youtube\Youtube\obj\Debug\Youtube.exe
+D:\C# Projelerim\Youtube\Youtube\obj\Debug\Youtube.pdb
